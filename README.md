@@ -1,2 +1,2 @@
-# webdevelopment_demo
+# Web Development Examples
 project examples related to web development
